@@ -37,6 +37,15 @@ It was created as an university task. Written
 
 ![Fluid pic][fluidpic]
 
+### Python paint app
+
+Another university task. A very basic raster editor written [in Python](https://github.com/pashawnn/python_paint/).
+
+![Paint screenshot][paintpic]
+
+[paintpic]: https://github.com/pashawnn/python_paint/blob/master/screenshot.png
+
+
 [fluidpic]: https://github.com/PashaWNN/PashaWNN/raw/main/cellular.png
 
 ### Raytracer port C++ -> Python
