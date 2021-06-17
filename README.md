@@ -25,7 +25,7 @@ Written [in Go](https://github.com/PashaWNN/boids_go) using WASM
 
 ![Boids pic][boidspic]
 
-[boidspic]: https://github.com/PashaWNN/PashaWNN/blob/master/boids.png
+[boidspic]: https://github.com/PashaWNN/PashaWNN/raw/main/boids.png
 
 
 ### Cellular automata fluid simulation
@@ -37,7 +37,7 @@ It was created as an university task. Written
 
 ![Fluid pic][fluidpic]
 
-[fluidpic]: https://github.com/PashaWNN/PashaWNN/blob/master/cellular.png
+[fluidpic]: https://github.com/PashaWNN/PashaWNN/raw/main/cellular.png
 
 ### Raytracer port C++ -> Python
 
