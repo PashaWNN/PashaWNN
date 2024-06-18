@@ -9,6 +9,10 @@ in the code I'm aware of, and also I can tell how to improve it.*
 
 ## My pet projects
 
+### Music box drum generator
+
+You can create your custom music box easily, just create a music track in MIDI file format and [use this script](https://github.com/pashawnn/midi_to_music_box)!
+
 ### Flappy bird clone 
 
 This is a flappy bird clone that uses Pygame, written [in Python](https://github.com/pashawnn/pygame_flappybird/)
