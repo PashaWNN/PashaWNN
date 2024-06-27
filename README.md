@@ -15,7 +15,7 @@ You can create your custom music box easily, just create a music track in MIDI f
 
 ![MIDI to music box][mtmb]
 
-[mtmb]: https://github.com/pashawnn/PashaWNN/blob/master/midi_to_music_box.png
+[mtmb]: https://github.com/pashawnn/PashaWNN/blob/master/midi_to_music_box.png?raw=true
 
 ### Flappy bird clone 
 
