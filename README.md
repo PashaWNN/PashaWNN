@@ -11,7 +11,11 @@ in the code I'm aware of, and also I can tell how to improve it.*
 
 ### Music box drum generator
 
-You can create your custom music box easily, just create a music track in MIDI file format and [use this script](https://github.com/pashawnn/midi_to_music_box)!
+You can create your custom music box easily, just create a music track in MIDI file format and [use this app](https://github.com/pashawnn/midi_to_music_box)!
+
+![MIDI to music box][mtmb]
+
+[mtmb]: https://github.com/pashawnn/PashaWNN/blob/master/midi_to_music_box.png
 
 ### Flappy bird clone 
 
